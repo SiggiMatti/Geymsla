@@ -5,3 +5,4 @@ heyrðu ég vil þessa launahækunn
 ég var að spurja um launahækkunina fyrst farðu í burtu
 breyta
 blablabla
+okok
