@@ -6,3 +6,4 @@ heyrðu ég vil þessa launahækunn
 breyta
 blablabla
 okok
+hallo
