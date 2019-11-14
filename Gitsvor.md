@@ -20,3 +20,6 @@ Verkefni 5
  
 5.
  Kostir við að nota git er að það er mjög einfalt að vinna saman í einu skjali ef að þú ert ekki á sama stað og félaginn þinn því að þið getið báðir breytt skjalinu og líka sagt hverju þið breyttuð. Git heldur líka utan um eldri gerðir af skjalinu sem þið eruð að vinna í svo þið getið léttilega fylgst með hverju er verið að breyta.
+
+6.
+ Ég held að þú ættir að gera færslu alltaf þegar að þú ert búinn að bæta ágætlega mikið ef það er stórt verkefni svo að það muni ekki flæða með færslum en samt gera færslu nógu oft svo að þú hefur gott yfirlit yfir verkefnið. En ef þú ert í minna verkefni ættirðu að gera færslu eins oft og þú getur til að hafa góða stjórn yfir öllu.
