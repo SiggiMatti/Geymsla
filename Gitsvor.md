@@ -8,11 +8,11 @@ Verkefni 5
 2.
  git clone - git clone kóperar núverandi git repository.
  git status - sýnir þér stöðuna á working directoryinu og staging area sem að leyfir þér að sjá hvaða breytur hafa verið staged og hverjar hafa ekki.
- git diff - Tekur tvö inntök og sýnir breytur milli þeirra. Þetta geta verið commit, branches, skrár og meira.
+ git diff - Tekur tvö inntök og sýnir breytur milli þeirra. Þetta geta verið færslur, branches, skrár og meira.
 
 3.
- git log - leyfir þér að sjá upplýsingar um fyrri commits sem að hafa gerst í verkefni.
- git checkout - leyfir þér að fara á milli branches gerðar frá git branch. Þegar að þú skoðar branch þá uppfærast skrárnar í working directoryinu til að passa við útgáfuna geymd í þeirri branch, og segir Git að skrá öll ný commits á því branch.
+ git log - leyfir þér að sjá upplýsingar um fyrri færslur sem að hafa verið gerðar í verkefni.
+ git checkout - leyfir þér að fara á milli branches gerðar frá git branch. Þegar að þú skoðar branch þá uppfærast skrárnar í working directoryinu til að passa við útgáfuna geymd í þeirri branch, og segir Git að skrá allar nýjar færslur á því branch.
  git branch - git branch hjálpar þér að búa til, eyða og lista branches. Það útvegar líka meiri upplýsingar um allar branches þínar.
 
 4.
@@ -23,3 +23,6 @@ Verkefni 5
 
 6.
  Ég held að þú ættir að gera færslu alltaf þegar að þú ert búinn að bæta ágætlega mikið ef það er stórt verkefni svo að það muni ekki flæða með færslum en samt gera færslu nógu oft svo að þú hefur gott yfirlit yfir verkefnið. En ef þú ert í minna verkefni ættirðu að gera færslu eins oft og þú getur til að hafa góða stjórn yfir öllu.
+
+7.
+ Working directory er eitt checkout af einni gerð af verkefninu. Þessar skrár eru teknar úr þjöppuðu saman gagnasafni í Git directoryinu og er sett á disk fyrir þig til að nota eða breyta. Stagin area er einföld skrá, oftast geymd í Git dyrectoryinu þínu, sem að geymir upplýsingar um hvað mun fara í næstu færsluna þína.
