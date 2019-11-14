@@ -14,3 +14,7 @@ Verkefni 5
  git log - leyfir þér að sjá upplýsingar um fyrri commits sem að hafa gerst í verkefni.
  git checkout - leyfir þér að fara á milli branches gerðar frá git branch. Þegar að þú skoðar branch þá uppfærast skrárnar í working directoryinu til að passa við útgáfuna geymd í þeirri branch, og segir Git að skrá öll ný commits á því branch.
  git branch - git branch hjálpar þér að búa til, eyða og lista branches. Það útvegar líka meiri upplýsingar um allar branches þínar.
+
+4.
+ Útgafustýring er hugbúnaður sem að hjálpar að hafa umsjón á breytingum til source kóðans. Útgáfustýring heldur utan um allar breytingar við kóðann í sérstakari tegund af gagnasafni. Ef að það eru einhverjar villur í kóðanum geta forritarnir séð fyrri gerðir af kóðanum og berið það saman við nýju gerðina.
+ 
