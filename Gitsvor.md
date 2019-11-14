@@ -18,3 +18,5 @@ Verkefni 5
 4.
  Útgafustýring er hugbúnaður sem að hjálpar að hafa umsjón á breytingum til source kóðans. Útgáfustýring heldur utan um allar breytingar við kóðann í sérstakari tegund af gagnasafni. Ef að það eru einhverjar villur í kóðanum geta forritarnir séð fyrri gerðir af kóðanum og berið það saman við nýju gerðina.
  
+5.
+ Kostir við að nota git er að það er mjög einfalt að vinna saman í einu skjali ef að þú ert ekki á sama stað og félaginn þinn því að þið getið báðir breytt skjalinu og líka sagt hverju þið breyttuð. Git heldur líka utan um eldri gerðir af skjalinu sem þið eruð að vinna í svo þið getið léttilega fylgst með hverju er verið að breyta.
